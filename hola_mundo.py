@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # # print("hola")
 # # print("mundo")
 # lista = [1, 2, 3]
