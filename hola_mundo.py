@@ -63,6 +63,7 @@ if nota_eliminar in notas:
     print("Lista después de eliminar", nota_eliminar, ":", notas)
 else:
     print("La nota no existe en la lista")
+"""
 Salida esperada
 Lista de notas: [4.5, 5.8, 6.2, 4.5, 3.9, 5.1]
 Cantidad de notas 4.5: 2
@@ -82,4 +83,4 @@ Lista al revés: [6.2, 5.8, 5.1, 4.5, 4.5, 3.9]
 Mejor nota: 6.2
 Peor nota: 3.9
 Lista después de eliminar 4.5 : [3.9, 4.5, 5.1, 5.8, 6.2]
-
+"""
